@@ -1,5 +1,14 @@
 # AGENTS.md
 
+## Product purpose
+
+This is a local-first Job Search Copilot for managing applications,
+job descriptions, interview preparation, recruiter follow-ups, and
+job-search analytics.
+
+The first version is single-user and local-first.
+Do not add authentication or multi-user features unless explicitly requested.
+
 ## Project stack
 
 `README.md` defines the project's technology choices. Treat these as binding unless the
