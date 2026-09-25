@@ -1,7 +1,20 @@
-# Job Search Tracker
+# Job Search Copilot
 
-A full-stack application for tracking job applications, interviews,
-recruiters, follow-ups, and job-search analytics.
+A local-first job search command center for capturing job postings,
+tracking applications, generating interview prep, managing follow-ups,
+and analyzing job-search conversion metrics.
+
+## Core Features
+
+- Paste or import a job description
+- Extract structured job details
+- Track application stage
+- Track recruiter/contact information
+- Add interview notes
+- Generate interview prep
+- Track follow-up dates
+- Show job-search analytics
+- Export data to CSV
 
 ## Planned Tech Stack
 
@@ -23,14 +36,3 @@ recruiters, follow-ups, and job-search analytics.
 
 ### CI
 - GitHub Actions
-
-## Planned Features
-
-- Track companies and job applications
-- Track interview stages
-- Track recruiters and contacts
-- Add interview notes
-- Track follow-up dates
-- Search and filter applications
-- Job search analytics dashboard
-- CSV import/export
